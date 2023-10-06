@@ -403,10 +403,9 @@ aside p{
 	}
 	.redo{
 		display:flex;
-		margin:auto;
 		margin-bottom:2%;
 		margin-top:5%;
-		margin-left:2%;
+		margin-left:-4%;
 	}
 	.red{
 		margin:auto;
