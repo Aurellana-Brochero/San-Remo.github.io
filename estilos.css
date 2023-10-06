@@ -269,7 +269,8 @@ aside p{
       font-size: 30px;
 }
 .ayuda{
-	margin-top:7.5%;
+	margin-top:9.5%;
+	height:19vh;
 }
 .photo{
 	display:flex;
